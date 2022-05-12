@@ -1,0 +1,11 @@
+ID: BR002
+
+Summary: The "%" button is missing on the calculator layout in the scientific mode.
+
+Steps:
+1. Open the Calculator app.
+2. Click on the "Выбор" tab on the menu bar and select "Инженерный" mode.
+
+Expected result: The "%" button is present.
+Actual result: The "%" button is missing.
+
